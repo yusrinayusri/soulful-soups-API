@@ -1,0 +1,5 @@
+1) create API documentation
+2) refactor code
+3) create base html landing page
+4) push to github
+5) create readme

@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Soulful Soups List {% endblock %}</h1>
+    {% for soup in soups %}
+        <div class='soup'>
+            <h2>#{{ soup[0] }} - {{ soup[1] }} BY {{ soup[2] }}</h2>
+            <i><p>({{ soup[3] }} pages)</p></i>
+            <p class='review'>{{ soup[4] }}</p>
+            <i><p>Added {{ soup[5] }}</p></i>
+        </div>
+    {% endfor %}
+{% endblock %}

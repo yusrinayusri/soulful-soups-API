@@ -1,0 +1,18 @@
+[
+  {
+    "soup1": {
+      "cooking_duration": "30 minutes",
+      "cooking_instructions": "Add butter, onion, a large can of tomatoes, and water to a large pot. Bring everything to a low simmer and cook for 40 minutes. Once done, blend the soup until smooth. Adjust the soup with salt and pepper, then grab a bowl and enjoy!",
+      "ingredients": "Fresh tomatoes (2 pounds, blended), half a large onion, butter",
+      "soup_name": "Tomato Soup"
+    }
+  },
+  {
+    "soup2": {
+      "cooking_duration": "40 minutes",
+      "cooking_instructions": "In a large pot over medium heat, add the butter and onions. Cook until the onions turn translucent, 3 to 4 minutes, but don't let them brown at all. Season with a pinch of salt. Add the carrots, garlic, and dried thyme, and stir together. Cook for 30 seconds, just until garlic becomes fragrant. Add the stock and bring mixture to a simmer. Cover and simmer for 15 more minutes until the carrots are very tender. When the carrots are tender, use an immersion blender right in the pot to blend soup until smooth. Ladle the soup into bowls and swirl in about a tablespoon of heavy cream into each bowl. Garnish the soup with a sprinkle of paprika and fresh minced chives.",
+      "ingredients": "2 tablespoons unsalted butter, 1 large white onion (chopped), 2 pounds carrots (peeled and chopped), 3 clove garlic (chopped), 1 teaspoon dried thyme, 4 cups vegetable stock, 1/2 teaspoon salt, 1/2 teaspoon white pepper, 4 tablespoons heavy cream",
+      "soup_name": "Carrot Soup"
+    }
+  }
+]
