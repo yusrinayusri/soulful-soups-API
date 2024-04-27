@@ -27,7 +27,7 @@ curl http://127.0.0.1:5000/soups/api/<soup_id>
 curl -X POST http://127.0.0.1:5000/soups/api/new_soup/ -d '{"soup_name": "Tomato Soup", "ingredients": "Tomatoes, onion, butter", "cooking_duration": "30 minutes", "cooking_instructions": "Cook tomatoes and onion in butter for 30 minutes."}'
 ```
 
-#### #4 Remove any soup record from database (must know soup ID
+#### #4 Remove any soup record from database (must know soup ID)
 
 ```bash
 curl -X DELETE http://127.0.0.1:5000/soups/api/pour_soup/<soup_id> 
@@ -57,7 +57,7 @@ flask run
 1. Clone/Fork this repository
 2. Create your feature branch (`git checkout -b feature/<featurename>`)
 3. Commit your changes with meaningful comments (`git commit -a -m 'Add feature <details>'`)
-4. Push to the branch (`git push origin feature/<featurename>>`)
+4. Push to the branch (`git push origin feature/<featurename>`)
 5. Create a new Pull Request
 
 

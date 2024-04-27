@@ -14,5 +14,13 @@
       "ingredients": "2 tablespoons unsalted butter, 1 large white onion (chopped), 2 pounds carrots (peeled and chopped), 3 clove garlic (chopped), 1 teaspoon dried thyme, 4 cups vegetable stock, 1/2 teaspoon salt, 1/2 teaspoon white pepper, 4 tablespoons heavy cream",
       "soup_name": "Carrot Soup"
     }
+  },
+  {
+     "soup3": {
+        "cooking_duration": "25 minutes",
+        "coooking_instructions": "Melt 2 tbsp of butter in a large pot. Add garlic and shallot, cook for 1 minute until they begin to soften. Add all the mushrooms and cook for about 3 mins until tender and browned. Transfer all contents to a bowl. Add remaining 1 tbsp of butter to the pot. Once melted, sprinkle in the flour and whisk it quickly into a paste. Reduce heat to medium. Add the stock a little at a time, whisking out the clumps between each addition. Increase heat back to medium-high and allow the soup to simmer well for 3 mins. Add the musrooms back to the pot and continue to cook for 2 more minutes. The stock will thicken slightly to a somewhat creamy consistency. Let cook for 3 to 4 minutes, then ladle into bowls. Garnish with musrooms and parsley.",
+        "ingredients": "3 tbsp unsalted butter, 2 minced garlic cloves, 1 finely chopped shallots, 4 ounces of chopped crimini mushrooms, 4 ounces of chopped white button mushrooms, 2 tbsp all purpose flour, 3 cups chicken stock, 1/4 tsp fine sea salt, 1/4 tsp ground black pepper, sliced sauteed mushrooms for garnish, chopped parsley for garnish.",
+        "soup_name": "Easy Quick Mushroom Soup"
+     }
   }
 ]
